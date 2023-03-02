@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Vinicius Collaço 😁
+## Seja bem-vindo(a) ao perfil de Vinicius Collaço 😁
 
  <div>
    <a href="https://github.com/ViniciusCollaco">
